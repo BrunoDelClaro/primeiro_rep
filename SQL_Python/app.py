@@ -16,7 +16,7 @@ db.show()
 
 #db.show()
 
-#db.show_name("Pedro")
+db.show_name("Pedro")
 
 #db.delete("Pedro","Delavechia")
 
